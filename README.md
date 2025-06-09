@@ -1,5 +1,6 @@
 # Assignement4
 python assignment  4
+
 Task 1: Read a File and Handle Errors
 📝 Problem Statement
 Write a Python program that:
